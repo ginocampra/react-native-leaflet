@@ -1,0 +1,17 @@
+.DS_Store
+node_modules/
+dist/
+*.log
+.env
+.env.local
+.cache
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+SUMMARY.md
+pre-publish-check.sh
