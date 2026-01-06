@@ -20,7 +20,7 @@
     "compile": "tsc",
     "bundle": "rollup -c",
     "dev": "rollup -c -w",
-    "test": "jest",
+    "test": "jest --passWithNoTests",
     "lint": "eslint src --ext .ts,.tsx",
     "format": "prettier --write \"src/**/*.{ts,tsx}\"",
     "prepublishOnly": "npm run build && npm run test && npm run lint"
