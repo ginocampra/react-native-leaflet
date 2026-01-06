@@ -1,5 +1,5 @@
 {
-  "name": "react-native-leaflet",
+  "name": "@gcampra/react-native-leaflet",
   "version": "1.0.0",
   "description": "A powerful React component for integrating Leaflet maps with support for markers, polygons, polylines, circles, and rectangles.",
   "main": "dist/index.js",
